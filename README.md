@@ -31,7 +31,7 @@ The project was developed as part of the COMP 3304 course using **VB.NET and Win
 ### 🔐 Login Menu
 Each user can log in as Member, Trainer, or Administrator.
 
-![Welcome Screen](https://hizliresim.com/dvimn75)
+![Welcome Screen]("https://hizliresim.com/dvimn75")
 
 ### 📖 About Section
 Shows basic info about the term project.
