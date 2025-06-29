@@ -36,22 +36,22 @@ Each user can log in as Member, Trainer, or Administrator.
 ### 📖 About Section
 Shows basic info about the term project.
 
-![About FCMS](/mnt/data/Ekran%20Resmi%202025-06-29%2022.09.03.png)
+![About FCMS](https://i.ibb.co/4Z8xHngZ/0-A375-BDD-ABAE-4-D79-A7-E9-7-A6289-D35891.png)
 
 ### 👤 Member Panel
 Members can view available classes and book a selected class.
 
-![Member Menu](/mnt/data/Ekran%20Resmi%202025-06-29%2022.09.10.png)
+![Member Menu](https://i.ibb.co/ynWgZ9h6/A90-D774-B-19-D6-4225-B1-D2-6-DC6-C6711340.png)
 
 ### 🧑‍🏫 Trainer Panel
 Trainers can monitor and evaluate the progress of assigned members.
 
-![Trainer Menu](/mnt/data/Ekran%20Resmi%202025-06-29%2022.09.17.png)
+![Trainer Menu](https://i.ibb.co/ynWgZ9h6/A90-D774-B-19-D6-4225-B1-D2-6-DC6-C6711340.png)
 
 ### 🛠️ Administrator Panel
 Admins can add/edit/delete users and classes.
 
-![Admin Panel](/mnt/data/Ekran%20Resmi%202025-06-29%2022.09.17.png)
+![Admin Panel](https://i.ibb.co/69Q7YyC/DA2-F98-D1-741-B-4-B21-8180-C4-FEE5-F5-FC42.png)
 
 ---
 
