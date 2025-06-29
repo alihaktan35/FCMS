@@ -59,7 +59,12 @@ Admins can add/edit/delete users and classes.
 
 > As part of the software engineering process, we also prepared:
 - Use Case Diagrams
+- Use Case Descriptions
+- Activity Diagrams and their explanations
+- Analysis Class Diagram of the System
+- Design Class Diagram
 - Sequence Diagrams
-- Activity Diagrams
 
-This project was developed for educational purposes.
+---
+
+This project was developed for educational purposes, related to class "COMP 3304 - Fundamentals of Software Engineering".
