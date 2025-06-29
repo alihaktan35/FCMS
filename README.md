@@ -31,7 +31,7 @@ The project was developed as part of the COMP 3304 course using **VB.NET and Win
 ### 🔐 Login Menu
 Each user can log in as Member, Trainer, or Administrator.
 
-![Welcome Screen](https://ibb.co/PZLjJC7C)
+![Welcome Screen](https://i.ibb.co/XZQL6JhJ/7-EACB5-F2-9-BBF-41-AC-A40-B-B5-D6-E2-FC9-A15.png)
 
 ### 📖 About Section
 Shows basic info about the term project.
