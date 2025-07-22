@@ -71,4 +71,4 @@ Admins can add/edit/delete users and classes.
 
 ---
 
-This project was developed for educational purposes, related to class "COMP 3304 - Fundamentals of Software Engineering" at Yaşar University.
+This project was developed for educational purposes, related to class **COMP 3304 - Fundamentals of Software Engineering**.
