@@ -39,12 +39,12 @@ Shows basic info about the term project.
 ![About FCMS](https://i.ibb.co/4Z8xHngZ/0-A375-BDD-ABAE-4-D79-A7-E9-7-A6289-D35891.png)
 
 ### 👤 Member Panel
-Members can view available classes and book a selected class.
+Members can view available classes with details and book a selected class.
 
 ![Member Menu](https://i.ibb.co/ynWgZ9h6/A90-D774-B-19-D6-4225-B1-D2-6-DC6-C6711340.png)
 
 ### 🧑‍🏫 Trainer Panel
-Trainers can monitor and evaluate the progress of assigned members.
+Trainers can monitor and evaluate the progress of assigned members. Also, they can add notes for their trainees.
 
 ![Trainer Menu](https://i.ibb.co/Y4v8vwS0/Trainer.png) ![Trainer Menu](https://i.ibb.co/1GG25WCj/Trainer2.png)
 
@@ -67,4 +67,4 @@ Admins can add/edit/delete users and classes.
 
 ---
 
-This project was developed for educational purposes, related to class "COMP 3304 - Fundamentals of Software Engineering".
+This project was developed for educational purposes, related to class "COMP 3304 - Fundamentals of Software Engineering" at Yaşar University.
