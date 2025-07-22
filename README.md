@@ -6,6 +6,10 @@ Prepared by AHS
 
 ---
 
+You can try/test the project from **'bin/Debug/net8.0-windows/FCMS.exe'**
+
+---
+
 ## 📌 Project Overview
 
 **FCMS** is a desktop application developed for managing the operations of a fitness center. It supports three different user roles:
