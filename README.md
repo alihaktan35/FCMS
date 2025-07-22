@@ -46,7 +46,7 @@ Members can view available classes and book a selected class.
 ### 🧑‍🏫 Trainer Panel
 Trainers can monitor and evaluate the progress of assigned members.
 
-![Trainer Menu](png)
+![Trainer Menu](https://i.ibb.co/Y4v8vwS0/Trainer.png) ![Trainer Menu](https://i.ibb.co/1GG25WCj/Trainer2.png)
 
 ### 🛠️ Administrator Panel
 Admins can add/edit/delete users and classes.
