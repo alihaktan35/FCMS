@@ -61,7 +61,7 @@ Admins can add/edit/delete users and classes.
 
 ## 🗂 UML Diagrams (Design Phase)
 
-> As part of the software engineering process, we also prepared:
+As part of the software engineering process, we also prepared:
 - Use Case Diagrams
 - Use Case Descriptions
 - Activity Diagrams and their explanations
