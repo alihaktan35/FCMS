@@ -4,6 +4,8 @@
 Term Project | Developed with Visual Basic .NET  
 Prepared by AHS
 
+![Project Banner](https://i.hizliresim.com/ozdfwil.png)
+
 ---
 
 You can try/test the project from **'bin/Debug/net8.0-windows/FCMS.exe'**
